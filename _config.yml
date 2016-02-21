@@ -1,9 +1,19 @@
-layout_spectrum: 1
-typography_spectrum: 0.5232975
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.4319648
+  brandStrength: 0
   lightness: 0.8892543
-  brandStrength: 1
   brandColors:
     - '#E0D9D7'
     - '#4B1F1F'
@@ -11,4 +21,6 @@ color:
     - '#ACACB4'
     - '#66656D'
   rhythmicContrast: 0.6391223
+typography_spectrum: 0.5232975
+layout_spectrum: 0.1935484
 name: Amadeus
