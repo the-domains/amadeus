@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5232975
+color:
+  saturation: 0.4319648
+  lightness: 0.8892543
+  brandStrength: 1
+  brandColors:
+    - '#E0D9D7'
+    - '#4B1F1F'
+    - '#884A39'
+    - '#ACACB4'
+    - '#66656D'
+  rhythmicContrast: 0.6391223
+name: Amadeus
