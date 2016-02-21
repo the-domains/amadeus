@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Amadeus]]></title>
         <description><![CDATA[Amadeus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amadeus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 22:08:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 22:10:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amadeus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Come to my site. We have cookies]]></title>
             <description><![CDATA[<article><h1>Come to my site. We have cookies</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a2a955e7a97e67a58cfd2d6b8c5b56eeec03142.png"></article>]]></description>
-            <link>undefinedcome-to-my-site-we-have-cookies/index.html</link>
+            <link>https://thegrid.ai/amadeus/come-to-my-site-we-have-cookies/index.html</link>
             <guid isPermaLink="false">8577de3a-d62c-4228-9e5d-fe932dfb3634</guid>
             <pubDate>Sun, 21 Feb 2016 22:07:57 GMT</pubDate>
         </item>
