@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.4319648
-  brandStrength: 0
-  lightness: 0.8892543
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.003584229
   brandColors:
     - '#E0D9D7'
     - '#4B1F1F'
     - '#884A39'
     - '#ACACB4'
     - '#66656D'
-  rhythmicContrast: 0.6391223
+  rhythmicContrast: 0.02508961
 typography_spectrum: 0.5232975
-layout_spectrum: 0.1935484
+layout_spectrum: 1
 name: Amadeus
