@@ -11,16 +11,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 1
+  saturation: 0.04301075
   brandStrength: 1
-  lightness: 0.003584229
+  lightness: 1
   brandColors:
     - '#E0D9D7'
     - '#4B1F1F'
     - '#884A39'
     - '#ACACB4'
     - '#66656D'
-  rhythmicContrast: 0.02508961
-typography_spectrum: 0.5232975
+  rhythmicContrast: 1
+typography_spectrum: 0.5017921
 layout_spectrum: 1
 name: Amadeus
